@@ -18,7 +18,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap" rel="stylesheet">
 
     <!-- CSS -->
     <link rel="stylesheet" href="css/style.css">
@@ -33,32 +33,56 @@
 </head>
 
 <body>
-    <!-- <header>
-        <nav class="navbar navbar-expand-md" data-bs-theme="dark">
+    <header>
+        <nav class="navbar navbar-expand-lg">
             <div class="container d-flex justify-content-between align-items-center">
                 <a class="navbar-brand me-5 d-flex align-items-center gap-2" href="index.php">
                     <img src="" alt="logo" class="logo">
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                    <i class="fas fa-bars text-white"></i>
+                    <i class="fas fa-bars"></i>
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav d-flex justify-content-start w-100 gap-0 column-gap-4">
+                    <ul class="navbar-nav d-flex justify-content-end w-100 gap-0 column-gap-4">
                         <li class="nav-item">
                             <a class="nav-link" href="index.php">
-                                Home
+                                主頁
                             </a>
                         </li>
 
                         <li class="nav-item">
                             <a class="nav-link" href="about.php">
-                                About
+                                香港保衛戰
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="about.php">
+                                游擊與抵抗
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="about.php">
+                                日治下的香港
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="about.php">
+                                人物與故事
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="about.php">
+                                歷史資料
                             </a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-    </header> -->
+    </header>

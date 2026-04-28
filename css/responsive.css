@@ -33,8 +33,58 @@
     /* .bottom-padding-sm {
         padding-bottom: calc(var(--padding) * 0.5);
     } */
+
+    .history-title,
+    .history-description {
+        max-width: 100%;
+    }
+
+    .history-timeline {
+        justify-content: flex-start !important;
+    }
+
+    .history-years-list {
+        max-width: 100%;
+        width: auto;
+        display: flex !important;
+        flex-wrap: wrap;
+        column-gap: 1.2rem;
+        row-gap: 0.75rem;
+    }
+
+    .history-years-list::before {
+        display: none;
+    }
+
+    .history-year-btn {
+        padding-left: 0.9rem;
+        /* font-size: 0.9rem; */
+    }
+
+    .history-year-btn::before {
+        left: 0;
+        width: 0.45rem;
+        height: 0.45rem;
+    }
+
+    .history-image-wrap {
+        min-height: 360px;
+        border-width: 10px;
+    }
 }
 
-@media only screen and (max-width: 767px) {}
+@media only screen and (max-width: 767px) {
+    /* .history-year {
+        font-size: clamp(2.75rem, 14vw, 4.2rem);
+    }
+
+    .history-title {
+        font-size: clamp(1.15rem, 5vw, 1.6rem);
+    } */
+
+    .history-image-wrap {
+        min-height: 280px;
+    }
+}
 
 @media only screen and (max-width: 575px) {}

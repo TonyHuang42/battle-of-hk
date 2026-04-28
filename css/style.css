@@ -2,33 +2,42 @@
     --padding: 100px;
 }
 
-.navbar-toggler:focus {
-    box-shadow: none;
-    outline: none;
+body {
+    font-family: "Noto Sans TC", sans-serif;
 }
 
 h1 {
     font-size: clamp(3rem, 6vw, 4rem);
+    font-weight: 400;
 }
 
 h2 {
     font-size: clamp(2.5rem, 5vw, 3rem);
+    font-weight: 400;
 }
 
 h3 {
     font-size: clamp(2rem, 4vw, 2.5rem);
+    font-weight: 400;
 }
 
 h4 {
     font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 400;
 }
 
 h5 {
     font-size: clamp(1.25rem, 2vw, 1.5rem);
+    font-weight: 400;
 }
 
 h6 {
     font-size: clamp(1rem, 3vw, 1.25rem);
+    font-weight: 400;
+}
+
+p {
+    font-weight: 300;
 }
 
 a {
@@ -62,6 +71,11 @@ a {
     padding-bottom: calc(var(--padding) * 0.5);
 }
 
+.navbar-toggler:focus {
+    box-shadow: none;
+    outline: none;
+}
+
 .logo {
     height: 20px;
 }
@@ -73,7 +87,7 @@ a {
 }
 
 .home-intro {
-    background-color: #f6f6f4;
+    /* background-color: #f6f6f4; */
 }
 
 /* .home-intro-text {
@@ -94,16 +108,86 @@ a {
     display: block;
 }
 
-.benefit-card h6 {
-    line-height: 1.4;
-}
-
-.benefit-card p {
-    font-size: 0.95rem;
-    line-height: 1.6;
-}
-
 footer {
     min-height: 180px;
     background-color: #091d49;
+}
+
+.about-history {
+    /* background-color: #f2f2f2; */
+}
+
+.history-content {
+    padding: 1rem 0.5rem;
+}
+
+.history-timeline {
+    position: relative;
+    min-height: 100%;
+}
+
+.history-years-list {
+    position: relative;
+    width: 100%;
+    max-width: 120px;
+}
+
+.history-years-list::before {
+    content: "";
+    position: absolute;
+    top: 0.5rem;
+    bottom: 0.5rem;
+    left: 5.51px;
+    width: 1px;
+    background-color: #cfcfcf;
+}
+
+.history-year-btn {
+    border: none;
+    background: transparent;
+    color: #8e8e8e;
+    /* font-size: 0.95rem; */
+    padding: 0 0 0 1.25rem;
+    position: relative;
+    text-align: left;
+    transition: color 0.25s ease;
+}
+
+.history-year-btn::before {
+    content: "";
+    position: absolute;
+    left: 0.1rem;
+    top: 50%;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    border: 2px solid #c8c8c8;
+    background-color: #f2f2f2;
+    transform: translateY(-50%);
+    transition: border-color 0.25s ease, background-color 0.25s ease;
+}
+
+.history-year-btn:hover {
+    color: #444;
+}
+
+.history-year-btn.is-active {
+    color: #222;
+    font-weight: 600;
+}
+
+.history-year-btn.is-active::before {
+    border-color: #ae2030;
+    background-color: #ffffff;
+}
+
+.history-image-wrap {
+    /* border: 16px solid #b71f2e; */
+    overflow: hidden;
+    min-height: 460px;
+}
+
+.history-image {
+    object-fit: cover;
+    display: block;
 }
