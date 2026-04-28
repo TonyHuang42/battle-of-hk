@@ -33,19 +33,17 @@
 </head>
 
 <body>
-    <header>
+    <!-- <header>
         <nav class="navbar navbar-expand-md" data-bs-theme="dark">
             <div class="container d-flex justify-content-between align-items-center">
                 <a class="navbar-brand me-5 d-flex align-items-center gap-2" href="index.php">
                     <img src="" alt="logo" class="logo">
                 </a>
 
-                <!-- Toggle Button -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <i class="fas fa-bars text-white"></i>
                 </button>
 
-                <!-- Navbar Content -->
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav d-flex justify-content-start w-100 gap-0 column-gap-4">
                         <li class="nav-item">
@@ -63,4 +61,4 @@
                 </div>
             </div>
         </nav>
-    </header>
+    </header> -->

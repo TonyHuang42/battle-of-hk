@@ -1,5 +1,5 @@
-    <section class="footer">
-        <div class="mt-auto">
+    <footer class="footer">
+        <!-- <div class="mt-auto">
             <div class="container">
                 <div class="copyright">
                     <div>Copyright © <strong></strong> All Rights Reserved</div>
@@ -9,8 +9,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </div> -->
+    </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
 </body>

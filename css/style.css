@@ -65,3 +65,45 @@ a {
 .logo {
     height: 20px;
 }
+
+.home-hero-img {
+    height: min(75vh, 760px);
+    object-fit: cover;
+    display: block;
+}
+
+.home-intro {
+    background-color: #f6f6f4;
+}
+
+/* .home-intro-text {
+    max-width: 880px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.9;
+    letter-spacing: 0.06em;
+} */
+
+.home-benefits {
+    background-color: #ebe9e5;
+}
+
+.benefit-card-image {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    display: block;
+}
+
+.benefit-card h6 {
+    line-height: 1.4;
+}
+
+.benefit-card p {
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+footer {
+    min-height: 180px;
+    background-color: #091d49;
+}
