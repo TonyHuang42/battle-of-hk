@@ -10,7 +10,26 @@ include 'inc/header.php';
         <img src="img/battle-of-hong-kong/banner.png" alt="Hero placeholder image" class="w-100 home-hero-img">
     </section>
 
-    <section>
+    <section class="border-bottom">
+        <div class="container py-4">
+            <div class="row">
+                <div class="col-3 text-center">
+                    <a href="#before-the-storm">戰前背景</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#eighteen-days-of-battle">戰役經過</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#black-christmas">黑色聖誕</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#wartime-timeline">戰時時間線</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="before-the-storm">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -18,7 +37,7 @@ include 'inc/header.php';
                         <div class="text-center">
                             <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
                             <h3>戰前背景</h3>
-                            <h6>Pre-War Background</h6>
+                            <h6>Before the Storm</h6>
                         </div>
                     </div>
                 </div>
@@ -63,7 +82,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section class="bg-texture-gray">
+    <section class="bg-texture-gray" id="eighteen-days-of-battle">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -71,7 +90,7 @@ include 'inc/header.php';
                         <div class="text-center">
                             <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
                             <h3>戰役經過</h3>
-                            <h6>Course of the Battle</h6>
+                            <h6>Eighteen Days of Battle</h6>
                         </div>
                     </div>
                 </div>
@@ -116,7 +135,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section>
+    <section id="black-christmas">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -169,7 +188,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section class="bg-texture-gray">
+    <section class="bg-texture-gray" id="wartime-timeline">
         <div class="battle-bg-left">
             <div class="container top-padding">
                 <div class="row">
@@ -236,9 +255,12 @@ include 'inc/header.php';
             </div>
         </div>
     </section>
+
+    <section>
+
+    </section>
 </main>
 
-<script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
 <script>
     (function() {
         const historyData = {
@@ -340,29 +362,6 @@ include 'inc/header.php';
             button.addEventListener("click", () => {
                 applyHistoryState(button.dataset.year);
             });
-        });
-
-        // Initialize Swiper
-        const battleSwiper = new Swiper('.battleSwiper', {
-            slidesPerView: 2.2,
-            centeredSlides: true,
-            spaceBetween: 100,
-            loop: true,
-            speed: 1000,
-            autoplay: {
-                delay: 3000,
-                disableOnInteraction: false,
-            },
-            // breakpoints: {
-            //     0: {
-            //         slidesPerView: 1.5,
-            //         spaceBetween: 15,
-            //     },
-            //     768: {
-            //         slidesPerView: 2,
-            //         spaceBetween: 30,
-            //     }
-            // }
         });
     })();
 </script>

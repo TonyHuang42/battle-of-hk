@@ -52,6 +52,12 @@ p {
 
 a {
     text-decoration: none;
+    color: #000;
+    font-weight: 300;
+}
+
+a:hover {
+    color: #672727;
 }
 
 .section-padding {
@@ -97,12 +103,12 @@ a {
 }
 
 .home-intro {
-    /* background-color: #f6f6f4; */
+    background-color: #672727;
 }
 
-/* .home-overview {
-    background-image: url(../img/home/texture_bg_gray.png);
-} */
+.home-overview {
+    background-color: #fbf9ed;
+}
 
 .icon-image {
     width: 40px;
@@ -150,7 +156,7 @@ a {
     content: "";
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 0.45);
+    background: rgba(0, 0, 0, 0.6);
     opacity: 0;
     transition: opacity 0.35s ease;
 }
@@ -184,7 +190,7 @@ a {
 
 footer {
     min-height: 100px;
-    background-color: #091d49;
+    background-color: #672727;
     color: #fff;
 }
 

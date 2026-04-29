@@ -14,15 +14,13 @@ include 'inc/header.php';
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <p class="mb-0">
-                        香港在二戰中曾經歷入侵、淪陷與長達三年零八個月的日治歲月。本網站回望香港保衛戰、敵後抵抗、民間生活與人物故事，呈現香港人在戰火中守護家園、支援中國抗戰的歷史記憶。
-                    </p>
+                    <h5 class="mb-0 text-center text-white">香港在二戰中曾經歷入侵、淪陷與長達三年零八個月的日治歲月。本網站回望香港保衛戰、敵後抵抗、民間生活與人物故事，呈現香港人在戰火中守護家園、支援中國抗戰的歷史記憶。</h5>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="bg-texture-gray section-padding">
+    <section class="home-overview section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 mx-auto">

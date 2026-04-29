@@ -28,16 +28,16 @@
     <link rel="stylesheet" href="css/responsive.css">
 
     <!-- Favicon -->
-    <!-- <link rel="apple-touch-icon" sizes="180x180" href="img/logo/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/logo/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/logo/favicon/favicon-16x16.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="img/logo/favicon/android-chrome-192x192.png">
-    <link rel="icon" type="image/png" sizes="512x512" href="img/logo/favicon/android-chrome-512x512.png"> -->
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="img/favicon/android-chrome-512x512.png">
 </head>
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-md">
             <div class="container d-flex justify-content-between align-items-center">
                 <a class="navbar-brand me-5 d-flex align-items-center gap-2" href="index.php">
                     <img src="img/home/icon_logo.svg" alt="logo" class="logo">
@@ -62,13 +62,13 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="guerrilla-and-resistance.php">
+                            <a class="nav-link" href="guerrilla-resistance.php">
                                 游擊與抵抗
                             </a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="under-japanese-rule.php">
+                            <a class="nav-link" href="under-japanese-occupation.php">
                                 日治下的香港
                             </a>
                         </li>
@@ -79,11 +79,11 @@
                             </a>
                         </li>
 
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="historical-data.php">
                                 歷史資料
                             </a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
