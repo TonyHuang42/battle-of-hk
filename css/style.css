@@ -4,6 +4,7 @@
 
 body {
     font-family: "Noto Sans TC", sans-serif;
+    letter-spacing: 0.5px;
 }
 
 h1 {
@@ -45,6 +46,8 @@ h6 {
 p {
     font-weight: 300;
     font-family: "Noto Sans TC", sans-serif;
+    line-height: 1.8;
+    text-align: justify;
 }
 
 a {
@@ -97,18 +100,9 @@ a {
     /* background-color: #f6f6f4; */
 }
 
-/* .home-intro-text {
-    max-width: 880px;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.9;
-    letter-spacing: 0.06em;
-} */
-
-.home-benefits {
-    /* background-color: #ebe9e5; */
+/* .home-overview {
     background-image: url(../img/home/texture_bg_gray.png);
-}
+} */
 
 .icon-image {
     width: 40px;
@@ -118,28 +112,32 @@ a {
     margin: 0 auto 10px;
 }
 
+.bg-texture-gray {
+    background-image: url(../img/home/texture_bg_gray.png);
+}
+
 .battle-bg-left {
-    background-image: url(../img/battle-of-hong-kong/bg_l.png);
+    background-image: url(../img/battle-of-hong-kong/bg_r.png);
     background-repeat: no-repeat;
-    background-position: left center;
-    background-size: auto 200px;
+    background-position: 5% center;
+    background-size: 250px auto;
 }
 
 .battle-bg-right {
-    background-image: url(../img/battle-of-hong-kong/bg_r.png);
+    background-image: url(../img/battle-of-hong-kong/bg_l.png);
     background-repeat: no-repeat;
-    background-position: right center;
-    background-size: auto 200px;
+    background-position: 95% center;
+    background-size: 250px auto;
 }
 
-.benefit-card {
+.overview-card {
     position: relative;
     overflow: hidden;
     min-height: 360px;
     isolation: isolate;
 }
 
-.benefit-card-image {
+.overview-card-image {
     width: 100%;
     height: 100%;
     aspect-ratio: 3 / 4;
@@ -148,7 +146,7 @@ a {
     transition: transform 0.45s ease;
 }
 
-.benefit-card::after {
+.overview-card::after {
     content: "";
     position: absolute;
     inset: 0;
@@ -157,7 +155,7 @@ a {
     transition: opacity 0.35s ease;
 }
 
-.benefit-card-content {
+.overview-card-content {
     position: absolute;
     inset: 0;
     display: flex;
@@ -171,15 +169,15 @@ a {
     transition: opacity 0.35s ease, transform 0.35s ease;
 }
 
-.benefit-card:hover .benefit-card-image {
+.overview-card:hover .overview-card-image {
     transform: scale(1.04);
 }
 
-.benefit-card:hover::after {
+.overview-card:hover::after {
     opacity: 1;
 }
 
-.benefit-card:hover .benefit-card-content {
+.overview-card:hover .overview-card-content {
     opacity: 1;
     transform: translateY(0);
 }
@@ -187,6 +185,7 @@ a {
 footer {
     min-height: 100px;
     background-color: #091d49;
+    color: #fff;
 }
 
 .battleSwiper .swiper-slide {
@@ -195,10 +194,6 @@ footer {
 
 .battleSwiper .swiper-slide img {
     object-fit: cover;
-}
-
-.about-history {
-    /* background-color: #f2f2f2; */
 }
 
 .history-content {
@@ -266,9 +261,8 @@ footer {
 }
 
 .history-image-wrap {
-    /* border: 16px solid #b71f2e; */
     overflow: hidden;
-    min-height: 460px;
+    /* min-height: 460px; */
 }
 
 .history-image {
