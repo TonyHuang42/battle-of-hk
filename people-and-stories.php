@@ -10,7 +10,26 @@ include 'inc/header.php';
         <img src="img/battle-of-hong-kong/banner.png" alt="Hero placeholder image" class="w-100 home-hero-img">
     </section>
 
-    <section>
+    <section class="border-bottom">
+        <div class="container py-4">
+            <div class="row">
+                <div class="col-3 text-center">
+                    <a href="#resistance-figures">抗戰人物</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#village-memories">村落記憶</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#mutual-aid">民間互助</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#rescue-stories">救援故事</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="resistance-figures">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -63,7 +82,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section class="bg-texture-gray">
+    <section class="bg-texture-gray" id="village-memories">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -116,7 +135,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section>
+    <section id="mutual-aid">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -169,7 +188,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section class="bg-texture-gray">
+    <section class="bg-texture-gray" id="rescue-stories">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">

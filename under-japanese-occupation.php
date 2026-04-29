@@ -10,7 +10,26 @@ include 'inc/header.php';
         <img src="img/battle-of-hong-kong/banner.png" alt="Hero placeholder image" class="w-100 home-hero-img">
     </section>
 
-    <section>
+    <section class="border-bottom">
+        <div class="container py-4">
+            <div class="row">
+                <div class="col-3 text-center">
+                    <a href="#occupation-rule">佔領統治</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#survival-and-rationing">生存與配給</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#economy-and-society">經濟與社會</a>
+                </div>
+                <div class="col-3 text-center">
+                    <a href="#everyday-life-wartime">戰時日常</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="occupation-rule">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -63,7 +82,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section class="bg-texture-gray">
+    <section class="bg-texture-gray" id="survival-and-rationing">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -116,7 +135,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section>
+    <section id="economy-and-society">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
@@ -169,7 +188,7 @@ include 'inc/header.php';
         </div>
     </section>
 
-    <section class="bg-texture-gray">
+    <section class="bg-texture-gray" id="everyday-life-wartime">
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">

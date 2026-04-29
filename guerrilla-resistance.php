@@ -155,23 +155,7 @@ include 'inc/header.php';
                 <div class="swiper-wrapper align-items-center">
                     <!-- Original Slides -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_1.png" alt="Image 1" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_2.png" alt="Image 2" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_3.png" alt="Image 3" class="w-100">
-                    </div>
-                    <!-- Duplicated Slides for Swiper Loop Mode -->
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_1.png" alt="Image 1" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_2.png" alt="Image 2" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_3.png" alt="Image 3" class="w-100">
+                        <img src="img/guerrilla-resistance/image_3_1.png" alt="Image 1" class="w-100">
                     </div>
                 </div>
             </div>
@@ -182,6 +166,7 @@ include 'inc/header.php';
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
                         <p>港九大隊的抗戰不只是在山林與海面上作戰，也包括極其隱密的情報和營救工作。日軍佔領香港後，大批文化人、民主人士、英軍戰俘和盟軍人員被困城中，生命受到威脅。游擊隊與地下組織合作，開闢東線、西線和海上路線，護送被困人士離港。香港記憶資料指出，秘密營救行動曾協助超過800名文化人及其家屬脫險，也救出近百名歐美及印度籍軍人，包括英軍軍官和美國飛行員。港九大隊亦與英軍服務團及美方合作，收集日軍機場、船塢、油庫、軍艦、兵營和交通設施等情報，支援盟軍作戰。這些工作往往比正面戰鬥更危險：交通員要穿過檢查站，情報員要潛入敵方控制區，村民要冒死掩護陌生人。它們展示出抗戰不只是槍聲，也包括帶路、傳信、藏身、渡海，以及在危險中守住信任。</p>
+                        <img src="img/guerrilla-resistance/image_3_2.png" alt="Image 2" class="w-100">
                     </div>
                 </div>
             </div>
