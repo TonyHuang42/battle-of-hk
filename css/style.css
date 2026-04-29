@@ -256,7 +256,7 @@ footer {
 }
 
 .history-year-btn.is-active::before {
-    border-color: #ae2030;
+    border-color: #392424;
     background-color: #ffffff;
 }
 
