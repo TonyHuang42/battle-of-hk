@@ -7,7 +7,7 @@ include 'inc/header.php';
 
 <main>
     <section class="home-hero">
-        <img src="img/home/banner.png" alt="Hero placeholder image" class="w-100 home-hero-img">
+        <img src="img/home/banner.jpg" alt="Home banner" class="w-100 home-hero-img">
     </section>
 
     <section class="home-intro section-padding">

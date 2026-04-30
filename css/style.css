@@ -275,3 +275,16 @@ footer {
     object-fit: cover;
     display: block;
 }
+
+.accordion {
+    --bs-accordion-btn-focus-box-shadow: none;
+    --bs-accordion-active-bg: none;
+    --bs-accordion-active-color: #000;
+    --bs-accordion-btn-padding-x: 0;
+    --bs-accordion-body-padding-x: 0;
+}
+
+ol,
+ul {
+    padding-left: 20px;
+}

@@ -255,10 +255,7 @@ include 'inc/header.php';
             </div>
         </div>
     </section>
-
-    <section>
-
-    </section>
+    <?php include 'inc/accordion.php'; ?>
 </main>
 
 <script>
