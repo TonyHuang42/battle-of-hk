@@ -6,8 +6,8 @@ include 'inc/header.php';
 ?>
 
 <main>
-    <section class="home-hero">
-        <img src="img/home/banner.jpg" alt="Home banner" class="w-100 home-hero-img">
+    <section class="hero">
+        <img src="img/home/banner.jpg" alt="Home banner" class="hero-img" style="object-position: 65% center;">
     </section>
 
     <section class="home-intro section-padding">

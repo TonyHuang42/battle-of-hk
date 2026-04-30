@@ -36,6 +36,7 @@ h5 {
     font-size: clamp(1.25rem, 2vw, 1.5rem);
     font-weight: 400;
     font-family: "Chiron Sung HK", serif;
+    line-height: 1.4;
 }
 
 h6 {
@@ -84,6 +85,10 @@ a:hover {
     padding-bottom: var(--padding);
 }
 
+.top-padding-sm {
+    padding-top: calc(var(--padding) * 0.5);
+}
+
 .bottom-padding-sm {
     padding-bottom: calc(var(--padding) * 0.5);
 }
@@ -97,18 +102,11 @@ a:hover {
     height: 40px;
 }
 
-.home-hero-img {
-    height: min(75vh, 760px);
-    width: 100%;
-    object-fit: cover;
-    display: block;
-}
-
-.home-hero {
+.hero {
     position: relative;
 }
 
-.home-hero::after {
+.hero::after {
     content: "";
     position: absolute;
     left: 0;
@@ -118,6 +116,13 @@ a:hover {
     pointer-events: none;
     background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.6));
     z-index: 1;
+}
+
+.hero-img {
+    height: min(75vh, 760px);
+    width: 100%;
+    object-fit: cover;
+    display: block;
 }
 
 .hero-caption {
