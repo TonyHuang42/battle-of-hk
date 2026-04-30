@@ -12,19 +12,11 @@ include 'inc/header.php';
 
     <section class="border-bottom">
         <div class="container py-4">
-            <div class="row">
-                <div class="col-3 text-center">
-                    <a href="#hk-kowloon-brigade">港九大隊</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#guerrilla-warfare">游擊戰</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#intelligence-and-rescue">情報與營救</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#underground-resistance">敵後抵抗網絡</a>
-                </div>
+            <div class="d-flex justify-content-evenly gap-2 gap-sm-0 flex-wrap">
+                <a href="#hk-kowloon-brigade">港九大隊</a>
+                <a href="#guerrilla-warfare">游擊戰</a>
+                <a href="#intelligence-and-rescue">情報與營救</a>
+                <a href="#underground-resistance">敵後抵抗網絡</a>
             </div>
         </div>
     </section>

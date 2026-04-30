@@ -9,14 +9,18 @@ const battleSwiper = new Swiper(".battleSwiper", {
     delay: 3000,
     disableOnInteraction: false,
   },
-  // breakpoints: {
-  //     0: {
-  //         slidesPerView: 1.5,
-  //         spaceBetween: 15,
-  //     },
-  //     768: {
-  //         slidesPerView: 2,
-  //         spaceBetween: 30,
-  //     }
-  // }
+  breakpoints: {
+      0: {
+          slidesPerView: 1.5,
+          spaceBetween: 15,
+      },
+      768: {
+          slidesPerView: 2,
+          spaceBetween: 30,
+      },
+      992: {
+          slidesPerView: 2.2,
+          spaceBetween: 100,
+      },
+  }
 });

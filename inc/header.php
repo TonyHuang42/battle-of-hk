@@ -78,12 +78,6 @@
                                 人物與故事
                             </a>
                         </li>
-
-                        <!-- <li class="nav-item">
-                            <a class="nav-link" href="historical-data.php">
-                                歷史資料
-                            </a>
-                        </li> -->
                     </ul>
                 </div>
             </div>

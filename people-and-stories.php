@@ -12,19 +12,11 @@ include 'inc/header.php';
 
     <section class="border-bottom">
         <div class="container py-4">
-            <div class="row">
-                <div class="col-3 text-center">
-                    <a href="#resistance-figures">抗戰人物</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#village-memories">村落記憶</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#mutual-aid">民間互助</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#rescue-stories">救援故事</a>
-                </div>
+            <div class="d-flex justify-content-evenly gap-2 gap-sm-0 flex-wrap">
+                <a href="#resistance-figures">抗戰人物</a>
+                <a href="#village-memories">村落記憶</a>
+                <a href="#mutual-aid">民間互助</a>
+                <a href="#rescue-stories">救援故事</a>
             </div>
         </div>
     </section>

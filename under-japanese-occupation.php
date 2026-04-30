@@ -12,19 +12,11 @@ include 'inc/header.php';
 
     <section class="border-bottom">
         <div class="container py-4">
-            <div class="row">
-                <div class="col-3 text-center">
-                    <a href="#occupation-rule">佔領統治</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#survival-and-rationing">生存與配給</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#economy-and-society">經濟與社會</a>
-                </div>
-                <div class="col-3 text-center">
-                    <a href="#everyday-life-wartime">戰時日常</a>
-                </div>
+            <div class="d-flex justify-content-evenly gap-2 gap-sm-0 flex-wrap">
+                <a href="#occupation-rule">佔領統治</a>
+                <a href="#survival-and-rationing">生存與配給</a>
+                <a href="#economy-and-society">經濟與社會</a>
+                <a href="#everyday-life-wartime">戰時日常</a>
             </div>
         </div>
     </section>

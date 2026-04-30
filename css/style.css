@@ -285,8 +285,7 @@ footer {
     --bs-accordion-body-padding-x: 0;
 }
 
-ol,
-ul {
+.accordion-body ol, .accordion-body ul {
     margin-left: -36px;
 }
 
