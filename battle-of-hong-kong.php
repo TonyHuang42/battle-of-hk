@@ -353,9 +353,9 @@ include 'inc/header.php';
         };
 
         buttons.forEach((button) => {
-            button.addEventListener("click", () => {
-                applyHistoryState(button.dataset.year);
-            });
+            const year = button.dataset.year;
+            button.addEventListener("mouseenter", () => applyHistoryState(year));
+            // button.addEventListener("focus", () => applyHistoryState(year));
         });
     })();
 </script>
