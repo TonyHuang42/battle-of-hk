@@ -5,6 +5,7 @@
 body {
     font-family: "Noto Sans TC", sans-serif;
     letter-spacing: 0.5px;
+    font-weight: 300;
 }
 
 h1 {
@@ -175,15 +176,15 @@ a:hover {
     transition: opacity 0.35s ease, transform 0.35s ease;
 }
 
-.overview-card:hover .overview-card-image {
+.home-overview a:hover .overview-card .overview-card-image {
     transform: scale(1.04);
 }
 
-.overview-card:hover::after {
+.home-overview a:hover .overview-card::after {
     opacity: 1;
 }
 
-.overview-card:hover .overview-card-content {
+.home-overview a:hover .overview-card .overview-card-content {
     opacity: 1;
     transform: translateY(0);
 }
@@ -286,5 +287,24 @@ footer {
 
 ol,
 ul {
-    padding-left: 20px;
+    margin-left: -36px;
+}
+
+.accordion-body ul {
+    list-style: none;
+}
+
+.accordion-body li {
+    position: relative;
+    padding-left: 16px;
+}
+
+.accordion-body li::before {
+    content: "•";
+    font-size: 16px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    line-height: 1.8;
+    margin-top: -2px;
 }

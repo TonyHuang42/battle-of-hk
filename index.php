@@ -1,6 +1,6 @@
 <?php
-$page_title = "Home";
-$meta_description = "Home page";
+$page_title = "香港淪陷史：保衛戰、日治歲月與抗日抵抗";
+$meta_description = "回顧香港在二戰中的歷史脈絡，涵蓋香港保衛戰、三年零八個月日治統治、敵後游擊行動及人物故事，認識戰火下香港人的抵抗與記憶。";
 
 include 'inc/header.php';
 ?>
@@ -38,47 +38,63 @@ include 'inc/header.php';
         <div class="container-fluid gx-0">
             <div class="row g-0">
                 <div class="col-12 col-sm-6 col-lg">
-                    <article class="overview-card h-100">
-                        <img src="img/home/image_香港保衛戰_.png" alt="香港保衛戰" class="w-100 h-100 overview-card-image">
-                        <div class="overview-card-content text-center p-5">
-                            <!-- <h6 class="mb-2">香港保衛戰</h6>
-                            <p class="mb-0">了解香港在二戰前的戰略地位、日軍入侵的經過，以及香港淪陷前後的關鍵時刻。</p> -->
-                            <img src="img/home/section_header-香港保衛戰.svg" alt="香港保衛戰" class="img-fluid">
+                    <a href="battle-of-hong-kong.php">
+                        <article class="overview-card">
+                            <img src="img/home/image_香港保衛戰_.png" alt="香港保衛戰" class="w-100 h-100 overview-card-image">
+                            <div class="overview-card-content text-center p-5">
+                                <img src="img/home/section_header-香港保衛戰.svg" alt="香港保衛戰" class="img-fluid">
+                            </div>
+                        </article>
+                        <div class="p-3">
+                            <!-- <h6 class="mb-2">香港保衛戰</h6> -->
+                            <p class="mb-0">了解香港在二戰前的戰略地位、日軍入侵的經過，以及香港淪陷前後的關鍵時刻。</p>
                         </div>
-                    </article>
+                    </a>
                 </div>
 
                 <div class="col-12 col-sm-6 col-lg">
-                    <article class="overview-card h-100">
-                        <img src="img/home/image_游擊與抵抗.jpg" alt="游擊與抵抗" class="w-100 h-100 overview-card-image">
-                        <div class="overview-card-content text-center p-5">
-                            <!-- <h6 class="mb-2">游擊與抵抗</h6>
-                            <p class="mb-0">認識港九大隊及香港抗日游擊隊如何在敵後展開情報、營救、突襲與民間抵抗行動。</p> -->
-                            <img src="img/home/section_header-游擊與抵抗.svg" alt="游擊與抵抗" class="img-fluid">
+                    <a href="guerrilla-resistance.php">
+                        <article class="overview-card">
+                            <img src="img/home/image_游擊與抵抗.jpg" alt="游擊與抵抗" class="w-100 h-100 overview-card-image">
+                            <div class="overview-card-content text-center p-5">
+                                <img src="img/home/section_header-游擊與抵抗.svg" alt="游擊與抵抗" class="img-fluid">
+                            </div>
+                        </article>
+                        <div class="p-3">
+                            <!-- <h6 class="mb-2">游擊與抵抗</h6> -->
+                            <p class="mb-0">認識港九大隊及香港抗日游擊隊如何在敵後展開情報、營救、突襲與民間抵抗行動。</p>
                         </div>
-                    </article>
+                    </a>
                 </div>
 
                 <div class="col-12 col-sm-6 col-lg">
-                    <article class="overview-card h-100">
-                        <img src="img/home/image_日治下的香港.jpg" alt="日治下的香港" class="w-100 h-100 overview-card-image">
-                        <div class="overview-card-content text-center p-5">
-                            <!-- <h6 class="mb-2">日治下的香港</h6>
-                            <p class="mb-0">探索日軍佔領期間香港市民面對的統治、糧食配給、經濟困境與日常生存經驗。</p> -->
-                            <img src="img/home/section_header-日治下的香港.svg" alt="日治下的香港" class="img-fluid">
+                    <a href="under-japanese-occupation.php">
+                        <article class="overview-card">
+                            <img src="img/home/image_日治下的香港.jpg" alt="日治下的香港" class="w-100 h-100 overview-card-image">
+                            <div class="overview-card-content text-center p-5">
+                                <img src="img/home/section_header-日治下的香港.svg" alt="日治下的香港" class="img-fluid">
+                            </div>
+                        </article>
+                        <div class="p-3">
+                            <!-- <h6 class="mb-2">日治下的香港</h6> -->
+                            <p class="mb-0">探索日軍佔領期間香港市民面對的統治、糧食配給、經濟困境與日常生存經驗。</p>
                         </div>
-                    </article>
+                    </a>
                 </div>
 
                 <div class="col-12 col-sm-6 col-lg">
-                    <article class="overview-card h-100">
-                        <img src="img/home/image_人物與故事.jpg" alt="人物與故事" class="w-100 h-100 overview-card-image">
-                        <div class="overview-card-content text-center p-5">
-                            <!-- <h6 class="mb-2">人物與故事</h6>
-                            <p class="mb-0">透過抗戰人物、村落記憶與民間互助故事，看見香港人在戰火中的勇氣與抉擇。</p> -->
-                            <img src="img/home/section_header-人物與故事.svg" alt="人物與故事" class="img-fluid">
+                    <a href="people-and-stories.php">
+                        <article class="overview-card">
+                            <img src="img/home/image_人物與故事.jpg" alt="人物與故事" class="w-100 h-100 overview-card-image">
+                            <div class="overview-card-content text-center p-5">
+                                <img src="img/home/section_header-人物與故事.svg" alt="人物與故事" class="img-fluid">
+                            </div>
+                        </article>
+                        <div class="p-3">
+                            <!-- <h6 class="mb-2">人物與故事</h6> -->
+                            <p class="mb-0">透過抗戰人物、村落記憶與民間互助故事，看見香港人在戰火中的勇氣與抉擇。</p>
                         </div>
-                    </article>
+                    </a>
                 </div>
             </div>
         </div>

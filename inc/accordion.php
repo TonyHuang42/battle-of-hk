@@ -1,6 +1,6 @@
 <section class="container">
     <div class="row">
-        <div class="col-lg-8 mx-auto">
+        <div class="col-xl-6 col-lg-8 mx-auto">
             <div class="accordion accordion-flush" id="accordionFlushExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header">
@@ -12,7 +12,7 @@
                         <div class="accordion-body">
                             <ul>
                                 <li>
-                                    香港公共紀錄處 - <a href="https://www.grs.gov.hk/ws/online/pro/default/en/home" target="_blank">https://www.grs.gov.hk/ws/online/pro/default/en/home</a>
+                                    香港公共紀錄處 - <a href="https://www.grs.gov.hk/en/index.html" target="_blank">https://www.grs.gov.hk/en/index.html</a>
                                 </li>
                                 <li>
                                     香港歷史博物館 - <a href="https://hk.history.museum/en/web/mh/" target="_blank">https://hk.history.museum/en/web/mh/</a>
@@ -45,10 +45,22 @@
                                     英國國家檔案館 - <a href="https://www.nationalarchives.gov.uk/" target="_blank">https://www.nationalarchives.gov.uk/</a>
                                 </li>
                                 <li>
-                                    加拿大圖書及檔案館 - <a href="https://www.bac-lac.gc.ca/eng/Pages/home.aspx" target="_blank">https://www.bac-lac.gc.ca/eng/Pages/home.aspx</a>
+                                    加拿大圖書及檔案館 - <a href="https://www.canada.ca/en/library-archives.html" target="_blank">https://www.canada.ca/en/library-archives.html</a>
                                 </li>
                                 <li>
                                     東江縱隊歷史研究會 - <a href="https://www.dongjiangzongdui.org/home/" target="_blank">https://www.dongjiangzongdui.org/home/</a>
+                                </li>
+                                <li>
+                                    中國文化研究院 - <a href="https://chiculture.org.hk/" target="_blank">https://chiculture.org.hk/</a>
+                                </li>
+                                <li>
+                                    古文古蹟辦事處 - <a href="https://www.amo.gov.hk/en/home/index.html" target="_blank">https://www.amo.gov.hk/en/home/index.html</a>
+                                </li>
+                                <li>
+                                    抗日戰爭紀念網 - <a href="https://www.krzzjn.com/" target="_blank">https://www.krzzjn.com/</a>
+                                </li>
+                                <li>
+                                    維基百科 - <a href="https://zh.wikipedia.org/zh-hk/%E9%A6%99%E6%B8%AF%E4%BF%9D%E8%A1%9B%E6%88%B0" target="_blank">https://zh.wikipedia.org/zh-hk/香港保衞戰</a>
                                 </li>
                             </ul>
                         </div>

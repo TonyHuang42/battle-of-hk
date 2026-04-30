@@ -1,6 +1,6 @@
 <?php
-$page_title = "";
-$meta_description = "";
+$page_title = "香港保衛戰：戰前危局、十八日激戰與黑色聖誕";
+$meta_description = "聚焦1941年香港保衛戰的歷史進程，從戰前背景、十八日攻防到黑色聖誕淪陷，重溫香港戰時關鍵時刻與記憶。";
 
 include 'inc/header.php';
 ?>
@@ -33,7 +33,7 @@ include 'inc/header.php';
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
                             <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
                             <h3>戰前背景</h3>
@@ -74,7 +74,7 @@ include 'inc/header.php';
         <div class="battle-bg-right bottom-padding-sm">
             <div class="container section-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <p>二十世紀上半葉的香港，不只是一座殖民地港口，也是一個連接華南、東南亞與世界航道的重要節點。抗日戰爭全面爆發後，香港因其特殊地位，成為物資流通、新聞出版、難民暫避與愛國救亡活動的重要空間。許多內地文化人、報人、學生與民主人士曾在此停留，繼續宣傳抗戰、支援祖國。與此同時，日軍自佔領廣州後，已逐步控制華南交通線，香港也被推向戰爭前線。從軍事角度看，香港面積雖小，卻扼守南中國海航道，靠近廣東沿岸，既可作為日軍南進東南亞的踏腳石，也可成為其海空運輸和情報控制的據點。英方雖在新界、九龍和香港島設有防線，但兵力、空軍、海軍支援均十分有限。戰雲壓境之時，香港已不再只是遠東商埠，而成為中國抗戰、太平洋戰爭與帝國爭奪交會的一個戰場。</p>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ include 'inc/header.php';
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
                             <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
                             <h3>戰役經過</h3>
@@ -127,7 +127,7 @@ include 'inc/header.php';
         <div class="battle-bg-right bottom-padding-sm">
             <div class="container section-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <p>1941年12月8日，太平洋戰爭爆發後不久，日軍從深圳河以北發動進攻，香港保衛戰正式開始。日軍首先空襲啟德機場，削弱守軍空中力量，隨後越過邊境，向新界推進。英軍、加拿大軍、印度軍、香港義勇防衛軍及其他守軍沿途抵抗，並嘗試以破壞橋樑和道路拖慢敵軍，但日軍進展迅速。新界防線失守後，戰事轉向九龍。原本被寄望可阻延日軍的醉酒灣防線，很快被突破，守軍被迫撤往香港島。12月18日夜，日軍在港島東北岸登陸，戰鬥隨即進入最激烈階段。港島多處爆發近距離戰鬥，守軍在黃泥涌峽、灣仔峽、赤柱等地頑強抵抗。面對日軍海、陸、空優勢，守軍傷亡慘重，民居、醫院和公共設施亦受到波及。短短十八日，香港由邊境戰場變成全城受圍的孤島，戰局逐步走向無可挽回的結局。</p>
                     </div>
                 </div>
@@ -139,7 +139,7 @@ include 'inc/header.php';
         <div class="battle-bg-left">
             <div class="container section-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
                             <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
                             <h3>黑色聖誕</h3>
@@ -180,7 +180,7 @@ include 'inc/header.php';
         <div class="battle-bg-right bottom-padding-sm">
             <div class="container section-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <p>1941年12月25日，本應是聖誕節，卻成為香港歷史上沉重的一天。經過十八日激戰，香港守軍已面臨彈藥、糧食、醫療與兵力全面不足的困境，多處防線被切斷，傷兵與平民處境危急。當日下午，香港總督楊慕琦代表英國殖民政府向日軍投降，香港正式淪陷。這一天後來被稱為「黑色聖誕」，不只是因為軍事上的失敗，更因為它標誌着香港進入三年零八個月的日佔歲月。城市的日常秩序被徹底改寫，居民開始面對宵禁、搜捕、糧食短缺、軍票、強制疏散與各種壓迫。對許多香港人而言，保衛戰的結束並非苦難的終點，而是另一場長期生存與抵抗的開始。也正是在香港淪陷後，中國共產黨領導的華南抗日游擊力量逐步進入港九新界，建立敵後據點，將香港抗戰從正面戰場延續到民間、山野、海島與城市地下網絡之中。</p>
                     </div>
                 </div>
@@ -192,7 +192,7 @@ include 'inc/header.php';
         <div class="battle-bg-left">
             <div class="container top-padding">
                 <div class="row">
-                    <div class="col-lg-8 mx-auto">
+                    <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
                             <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
                             <h3>戰時時間線</h3>
@@ -247,7 +247,7 @@ include 'inc/header.php';
 
         <div class="container bottom-padding">
             <div class="row">
-                <div class="col-lg-8 mx-auto">
+                <div class="col-xl-6 col-lg-8 mx-auto">
                     <div class="text-center">
                         <p class="mb-0">此後，抗戰並未停止：游擊隊進入新界、建立根據地、營救文化人與盟軍人員，並以情報、突襲、宣傳和民間支援繼續抵抗。這條時間線提醒我們，香港保衛戰不只是十八日的軍事事件，更是香港抗戰記憶的起點。</p>
                     </div>
