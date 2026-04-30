@@ -48,13 +48,13 @@
                                     加拿大圖書及檔案館 - <a href="https://www.canada.ca/en/library-archives.html" target="_blank">https://www.canada.ca/en/library-archives.html</a>
                                 </li>
                                 <li>
-                                    東江縱隊歷史研究會 - <a href="https://www.dongjiangzongdui.org/home/" target="_blank">https://www.dongjiangzongdui.org/home/</a>
+                                    東江縱隊歷史研究會 - <a href="https://www.dongjiangzongdui.org" target="_blank">https://www.dongjiangzongdui.org</a>
                                 </li>
                                 <li>
                                     中國文化研究院 - <a href="https://chiculture.org.hk/" target="_blank">https://chiculture.org.hk/</a>
                                 </li>
                                 <li>
-                                    古文古蹟辦事處 - <a href="https://www.amo.gov.hk/en/home/index.html" target="_blank">https://www.amo.gov.hk/en/home/index.html</a>
+                                    古文古蹟辦事處 - <a href="https://www.amo.gov.hk" target="_blank">https://www.amo.gov.hk</a>
                                 </li>
                                 <li>
                                     抗日戰爭紀念網 - <a href="https://www.krzzjn.com/" target="_blank">https://www.krzzjn.com/</a>

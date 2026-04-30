@@ -16,9 +16,9 @@
 }
 
 @media only screen and (max-width: 991px) {
-    .row {
+    /* .row {
         --bs-gutter-y: 1.5rem;
-    }
+    } */
 
     .section-padding {
         padding-top: calc(var(--padding) * 0.5);

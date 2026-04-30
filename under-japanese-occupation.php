@@ -7,7 +7,10 @@ include 'inc/header.php';
 
 <main>
     <section class="home-hero">
-        <img src="img/under-japanese-occupation/banner.png" alt="Hero placeholder image" class="w-100 home-hero-img">
+        <img src="img/under-japanese-occupation/banner.png" alt="日治下的香港" class="home-hero-img">
+        <div class="hero-caption">
+            <h1 class="mb-0 text-white">日治下的香港</h1>
+        </div>
     </section>
 
     <section class="border-bottom">

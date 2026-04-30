@@ -7,7 +7,10 @@ include 'inc/header.php';
 
 <main>
     <section class="home-hero">
-        <img src="img/battle-of-hong-kong/banner.png" alt="Hero placeholder image" class="w-100 home-hero-img">
+        <img src="img/battle-of-hong-kong/banner.png" alt="香港保衛戰" class="home-hero-img">
+        <div class="hero-caption">
+            <h1 class="mb-0 text-white">香港保衛戰</h1>
+        </div>
     </section>
 
     <section class="border-bottom">
@@ -203,7 +206,7 @@ include 'inc/header.php';
                         <article class="history-content h-100 d-flex flex-column justify-content-center" id="historyContent">
                             <h1 class="mb-3" id="historyYear">1937.7.7</h1>
                             <h4 class="mb-3" id="historyTitle">全面抗戰爆發</h4>
-                            <p class="history-description mb-3" id="historyDescription1">
+                            <p class="history-description mb-0" id="historyDescription1">
                                 1937年七七事變後，中國全面抗戰爆發。雖然香港當時仍是英國殖民地，未立即成為戰場，但它與內地戰局已密切相連。大量難民、文化人、報人和政治人士南下香港，使香港成為抗戰新聞、救亡活動、物資轉運和思想交流的重要空間。這一時期的香港，不只是旁觀戰爭的港口城市，也逐漸成為支援中國抗戰的重要後方。
                             </p>
                             <p class="history-description mb-0" id="historyDescription2"></p>

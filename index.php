@@ -35,7 +35,7 @@ include 'inc/header.php';
 
         <div class="container-fluid gx-0">
             <div class="row g-0">
-                <div class="col-12 col-sm-6 col-lg">
+                <div class="col-sm-6 col-md">
                     <a href="battle-of-hong-kong.php">
                         <article class="overview-card">
                             <img src="img/home/image_香港保衛戰_.png" alt="香港保衛戰" class="w-100 h-100 overview-card-image">
@@ -50,7 +50,7 @@ include 'inc/header.php';
                     </a>
                 </div>
 
-                <div class="col-12 col-sm-6 col-lg">
+                <div class="col-sm-6 col-md">
                     <a href="guerrilla-resistance.php">
                         <article class="overview-card">
                             <img src="img/home/image_游擊與抵抗.jpg" alt="游擊與抵抗" class="w-100 h-100 overview-card-image">
@@ -65,7 +65,7 @@ include 'inc/header.php';
                     </a>
                 </div>
 
-                <div class="col-12 col-sm-6 col-lg">
+                <div class="col-sm-6 col-md">
                     <a href="under-japanese-occupation.php">
                         <article class="overview-card">
                             <img src="img/home/image_日治下的香港.jpg" alt="日治下的香港" class="w-100 h-100 overview-card-image">
@@ -80,7 +80,7 @@ include 'inc/header.php';
                     </a>
                 </div>
 
-                <div class="col-12 col-sm-6 col-lg">
+                <div class="col-sm-6 col-md">
                     <a href="people-and-stories.php">
                         <article class="overview-card">
                             <img src="img/home/image_人物與故事.jpg" alt="人物與故事" class="w-100 h-100 overview-card-image">
