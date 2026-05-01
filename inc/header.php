@@ -37,10 +37,10 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-md">
+        <nav class="navbar navbar-expand-lg">
             <div class="container d-flex justify-content-between align-items-center">
                 <a class="navbar-brand me-5 d-flex align-items-center gap-2" href="index.php">
-                    <img src="img/home/icon_logo.svg" alt="logo" class="logo">
+                    <img src="img/home/logo_logo.svg" alt="logo" class="logo">
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">

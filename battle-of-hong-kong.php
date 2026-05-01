@@ -7,10 +7,8 @@ include 'inc/header.php';
 
 <main>
     <section class="hero">
-        <img src="img/battle-of-hong-kong/banner.png" alt="香港保衛戰" class="hero-img" style="object-position: 65% center;">
-        <div class="hero-caption">
-            <h1 class="mb-0 text-white">香港保衛戰</h1>
-        </div>
+        <img src="img/battle-of-hong-kong/banner.png" alt="" class="hero-img" aria-hidden="true" style="object-position: 65% center;">
+        <img src="img/home/section_header-香港保衛戰.svg" alt="香港保衛戰" class="hero-title battle-of-hong-kong-hero-title">
     </section>
 
     <section class="border-bottom">

@@ -7,7 +7,7 @@ include 'inc/header.php';
 
 <main>
     <section class="hero">
-        <img src="img/people-and-stories/banner.png" alt="人物與故事" class="hero-img" style="object-position: 65% center;">
+        <img src="img/people-and-stories/banner.png" alt="人物與故事" class="hero-img" style="object-position: 100% center;">
         <div class="hero-caption">
             <h1 class="mb-0 text-white">人物與故事</h1>
         </div>
