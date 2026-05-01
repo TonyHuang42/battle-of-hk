@@ -7,7 +7,7 @@ include 'inc/header.php';
 
 <main>
     <section class="hero">
-        <img src="img/guerrilla-resistance/banner.png" alt="游擊與抵抗" class="hero-img" style="object-position: 55% center;">
+        <img src="img/guerrilla-resistance/banner.png" alt="游擊與抵抗" class="hero-img" style="object-position: 60% 90%;">
         <img src="img/home/section_header-游擊與抵抗.svg" alt="游擊與抵抗" class="hero-title battle-of-hong-kong-hero-title">
     </section>
 
