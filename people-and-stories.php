@@ -7,7 +7,7 @@ include 'inc/header.php';
 
 <main>
     <section class="hero">
-        <img src="img/battle-of-hong-kong/banner.png" alt="人物與故事" class="hero-img" style="object-position: 65% center;">
+        <img src="img/people-and-stories/banner.png" alt="人物與故事" class="hero-img" style="object-position: 65% center;">
         <div class="hero-caption">
             <h1 class="mb-0 text-white">人物與故事</h1>
         </div>
@@ -44,23 +44,23 @@ include 'inc/header.php';
                 <div class="swiper-wrapper align-items-center">
                     <!-- Original Slides -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_1_1.png" alt="Image 1" class="w-100">
+                        <img src="img/people-and-stories/image_1_1.png" alt="Image 1" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_1_2.png" alt="Image 2" class="w-100">
+                        <img src="img/people-and-stories/image_1_2.png" alt="Image 2" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_1_3.png" alt="Image 3" class="w-100">
+                        <img src="img/people-and-stories/image_1_3.png" alt="Image 3" class="w-100">
                     </div>
                     <!-- Duplicated Slides for Swiper Loop Mode -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_1_1.png" alt="Image 1" class="w-100">
+                        <img src="img/people-and-stories/image_1_1.png" alt="Image 1" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_1_2.png" alt="Image 2" class="w-100">
+                        <img src="img/people-and-stories/image_1_2.png" alt="Image 2" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_1_3.png" alt="Image 3" class="w-100">
+                        <img src="img/people-and-stories/image_1_3.png" alt="Image 3" class="w-100">
                     </div>
                 </div>
             </div>
@@ -95,25 +95,8 @@ include 'inc/header.php';
         <div class="slider-section overflow-hidden">
             <div class="swiper battleSwiper">
                 <div class="swiper-wrapper align-items-center">
-                    <!-- Original Slides -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_2_1.png" alt="Image 1" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_2_2.png" alt="Image 2" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_2_3.png" alt="Image 3" class="w-100">
-                    </div>
-                    <!-- Duplicated Slides for Swiper Loop Mode -->
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_2_1.png" alt="Image 1" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_2_2.png" alt="Image 2" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_2_3.png" alt="Image 3" class="w-100">
+                        <img src="img/people-and-stories/image_2.png" alt="Image 1" class="w-100">
                     </div>
                 </div>
             </div>
@@ -150,23 +133,7 @@ include 'inc/header.php';
                 <div class="swiper-wrapper align-items-center">
                     <!-- Original Slides -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_1.png" alt="Image 1" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_2.png" alt="Image 2" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_3.png" alt="Image 3" class="w-100">
-                    </div>
-                    <!-- Duplicated Slides for Swiper Loop Mode -->
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_1.png" alt="Image 1" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_2.png" alt="Image 2" class="w-100">
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_3_3.png" alt="Image 3" class="w-100">
+                        <img src="img/people-and-stories/image_3.png" alt="Image 1" class="w-100">
                     </div>
                 </div>
             </div>
@@ -203,23 +170,23 @@ include 'inc/header.php';
                 <div class="swiper-wrapper align-items-center">
                     <!-- Original Slides -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_4_1.png" alt="Image 1" class="w-100">
+                        <img src="img/people-and-stories/image_4_1.png" alt="Image 1" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_4_2.png" alt="Image 2" class="w-100">
+                        <img src="img/people-and-stories/image_4_2.png" alt="Image 2" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_4_3.png" alt="Image 3" class="w-100">
+                        <img src="img/people-and-stories/image_4_3.png" alt="Image 3" class="w-100">
                     </div>
                     <!-- Duplicated Slides for Swiper Loop Mode -->
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_4_1.png" alt="Image 1" class="w-100">
+                        <img src="img/people-and-stories/image_4_1.png" alt="Image 1" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_4_2.png" alt="Image 2" class="w-100">
+                        <img src="img/people-and-stories/image_4_2.png" alt="Image 2" class="w-100">
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/battle-of-hong-kong/image_4_3.png" alt="Image 3" class="w-100">
+                        <img src="img/people-and-stories/image_4_3.png" alt="Image 3" class="w-100">
                     </div>
                 </div>
             </div>
