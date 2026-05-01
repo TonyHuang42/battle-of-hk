@@ -10,44 +10,44 @@ body {
 
 h1 {
     font-size: clamp(3rem, 6vw, 4rem);
-    font-weight: 400;
-    font-family: "Chiron Sung HK", serif;
+    font-weight: 300;
+    /* font-family: "Noto Sans TC", sans-serif; */
 }
 
 h2 {
     font-size: clamp(2.5rem, 5vw, 3rem);
-    font-weight: 400;
-    font-family: "Chiron Sung HK", serif;
+    font-weight: 300;
+    /* font-family: "Noto Sans TC", sans-serif; */
 }
 
 h3 {
     font-size: clamp(2rem, 4vw, 2.5rem);
-    font-weight: 400;
-    font-family: "Chiron Sung HK", serif;
+    font-weight: 300;
+    /* font-family: "Noto Sans TC", sans-serif; */
 }
 
 h4 {
     font-size: clamp(1.5rem, 3vw, 2rem);
-    font-weight: 400;
-    font-family: "Chiron Sung HK", serif;
+    font-weight: 300;
+    /* font-family: "Noto Sans TC", sans-serif; */
 }
 
 h5 {
     font-size: clamp(1.25rem, 2vw, 1.5rem);
-    font-weight: 400;
-    font-family: "Chiron Sung HK", serif;
+    font-weight: 300;
+    /* font-family: "Noto Sans TC", sans-serif; */
     line-height: 1.4;
 }
 
 h6 {
     font-size: clamp(1rem, 3vw, 1.25rem);
-    font-weight: 400;
-    font-family: "Chiron Sung HK", serif;
+    font-weight: 300;
+    /* font-family: "Noto Sans TC", sans-serif; */
 }
 
 p {
     font-weight: 300;
-    font-family: "Noto Sans TC", sans-serif;
+    /* font-family: "Noto Sans TC", sans-serif; */
     line-height: 1.8;
     text-align: justify;
 }
@@ -172,15 +172,15 @@ a:hover {
     background-image: url(../img/home/texture_bg_gray.png);
 }
 
-.battle-bg-left {
-    background-image: url(../img/battle-of-hong-kong/bg_r.png);
+.bg-left {
+    /* background-image: url(../img/battle-of-hong-kong/bg_r.png); */
     background-repeat: no-repeat;
     background-position: 5% center;
     background-size: 250px auto;
 }
 
-.battle-bg-right {
-    background-image: url(../img/battle-of-hong-kong/bg_l.png);
+.bg-right {
+    /* background-image: url(../img/battle-of-hong-kong/bg_l.png); */
     background-repeat: no-repeat;
     background-position: 95% center;
     background-size: 250px auto;

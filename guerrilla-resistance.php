@@ -7,7 +7,7 @@ include 'inc/header.php';
 
 <main>
     <section class="hero">
-        <img src="img/guerrilla-resistance/banner.png" alt="游擊與抵抗" class="hero-img" style="object-position: 44% center;">
+        <img src="img/guerrilla-resistance/banner.png" alt="游擊與抵抗" class="hero-img" style="object-position: 55% center;">
         <img src="img/home/section_header-游擊與抵抗.svg" alt="游擊與抵抗" class="hero-title battle-of-hong-kong-hero-title">
     </section>
 
@@ -23,7 +23,7 @@ include 'inc/header.php';
     </section>
 
     <section id="hk-kowloon-brigade">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_rifle_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -64,7 +64,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_rifle_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -76,7 +76,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="guerrilla-warfare">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_rifle_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -117,7 +117,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_rifle_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -129,7 +129,7 @@ include 'inc/header.php';
     </section>
 
     <section id="intelligence-and-rescue">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_rifle_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -154,7 +154,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_rifle_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -167,7 +167,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="underground-resistance">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_rifle_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -191,7 +191,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_rifle_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">

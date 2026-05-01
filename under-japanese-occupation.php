@@ -23,7 +23,7 @@ include 'inc/header.php';
     </section>
 
     <section id="occupation-rule">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -47,7 +47,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -59,7 +59,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="survival-and-rationing">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -83,7 +83,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -95,7 +95,7 @@ include 'inc/header.php';
     </section>
 
     <section id="economy-and-society">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -136,7 +136,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -148,7 +148,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="everyday-life-wartime">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -172,7 +172,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">

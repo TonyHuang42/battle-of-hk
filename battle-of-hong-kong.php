@@ -23,7 +23,7 @@ include 'inc/header.php';
     </section>
 
     <section id="before-the-storm">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -64,7 +64,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_ship_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -76,7 +76,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="eighteen-days-of-battle">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -117,7 +117,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_ship_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -129,7 +129,7 @@ include 'inc/header.php';
     </section>
 
     <section id="black-christmas">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -170,7 +170,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_ship_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -182,7 +182,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="wartime-timeline">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
             <div class="container top-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">

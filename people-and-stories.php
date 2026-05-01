@@ -23,7 +23,7 @@ include 'inc/header.php';
     </section>
 
     <section id="resistance-figures">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -64,7 +64,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -76,7 +76,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="village-memories">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -100,7 +100,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -112,7 +112,7 @@ include 'inc/header.php';
     </section>
 
     <section id="mutual-aid">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -137,7 +137,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -149,7 +149,7 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="rescue-stories">
-        <div class="battle-bg-left">
+        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -190,7 +190,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="battle-bg-right">
+        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
