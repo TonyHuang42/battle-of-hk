@@ -130,6 +130,7 @@ a:hover {
 
 .hero-title {
     position: absolute;
+    top: 50%;
     transform: translateY(-50%);
     z-index: 2;
     width: min(70vw, 480px);
@@ -141,7 +142,14 @@ a:hover {
 
 .battle-of-hong-kong-hero-title {
     left: 9%;
-    top: 50%;
+}
+
+.under-japanese-occupation-hero-img {
+    object-position: 80% center;
+}
+
+.under-japanese-occupation-hero-title {
+    right: 9%;
 }
 
 .home-intro {
