@@ -159,14 +159,14 @@ a:hover {
 .battle-bg-left {
     background-image: url(../img/battle-of-hong-kong/bg_r.png);
     background-repeat: no-repeat;
-    background-position: 5% center;
+    background-position: 2% center;
     background-size: 250px auto;
 }
 
 .battle-bg-right {
     background-image: url(../img/battle-of-hong-kong/bg_l.png);
     background-repeat: no-repeat;
-    background-position: 95% center;
+    background-position: 98% center;
     background-size: 250px auto;
 }
 
