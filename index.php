@@ -29,7 +29,7 @@ include 'inc/header.php';
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <div class="text-center mb-5">
-                        <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                        <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                         <h3 class="mb-2">在戰火與淪陷之中，香港人如何守護家園？</h3>
                         <p class="mb-0 text-center">從香港保衛戰到敵後游擊，從日治生活到人物記憶，回望香港在二戰中的苦難、抵抗與互助，理解這段歷史。</p>
                     </div>

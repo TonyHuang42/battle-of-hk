@@ -23,12 +23,12 @@ include 'inc/header.php';
     </section>
 
     <section id="before-the-storm">
-        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_plane_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>戰前背景</h3>
                             <h6>Before the Storm</h6>
                         </div>
@@ -64,7 +64,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_ship_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_plane_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -76,12 +76,12 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="eighteen-days-of-battle">
-        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_plane_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>戰役經過</h3>
                             <h6>Eighteen Days of Battle</h6>
                         </div>
@@ -117,7 +117,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_ship_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_plane_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -129,12 +129,12 @@ include 'inc/header.php';
     </section>
 
     <section id="black-christmas">
-        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_plane_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>黑色聖誕</h3>
                             <h6>Black Christmas</h6>
                         </div>
@@ -170,7 +170,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_ship_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_plane_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -182,12 +182,12 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="wartime-timeline">
-        <div class="bg-left" style="background-image: url('img/bg/bg_ship_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_plane_r.png');">
             <div class="container top-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>戰時時間線</h3>
                             <h6>Wartime Timeline</h6>
                             <!-- <p class="mb-0 text-center">香港保衛戰雖然只持續十八日，卻濃縮了戰前危機、正面戰鬥、城市淪陷與敵後抵抗的開端。</p> -->

@@ -23,12 +23,12 @@ include 'inc/header.php';
     </section>
 
     <section id="resistance-figures">
-        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_binocular_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>抗戰人物</h3>
                             <h6>Those Who Stood Up</h6>
                         </div>
@@ -64,7 +64,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_binocular_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -76,12 +76,12 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="village-memories">
-        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_binocular_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>村落記憶</h3>
                             <h6>Villages That Remember</h6>
                         </div>
@@ -100,7 +100,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_binocular_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -112,12 +112,12 @@ include 'inc/header.php';
     </section>
 
     <section id="mutual-aid">
-        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_binocular_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>民間互助</h3>
                             <h6>Acts of Courage and Care</h6>
                         </div>
@@ -137,7 +137,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_binocular_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -149,12 +149,12 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="rescue-stories">
-        <div class="bg-left" style="background-image: url('img/bg/bg_medic_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_binocular_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>救援故事</h3>
                             <h6>Stories of Rescue</h6>
                         </div>
@@ -190,7 +190,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_medic_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_binocular_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">

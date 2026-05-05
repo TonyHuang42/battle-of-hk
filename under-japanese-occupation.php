@@ -23,12 +23,12 @@ include 'inc/header.php';
     </section>
 
     <section id="occupation-rule">
-        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_radio_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>佔領統治</h3>
                             <h6>Rule by Force</h6>
                         </div>
@@ -47,7 +47,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_radio_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -59,12 +59,12 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="survival-and-rationing">
-        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_radio_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>生存與配給</h3>
                             <h6>Hunger and Survival</h6>
                         </div>
@@ -83,7 +83,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_radio_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -95,12 +95,12 @@ include 'inc/header.php';
     </section>
 
     <section id="economy-and-society">
-        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_radio_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>經濟與社會</h3>
                             <h6>A City Under Strain</h6>
                         </div>
@@ -136,7 +136,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_radio_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
@@ -148,12 +148,12 @@ include 'inc/header.php';
     </section>
 
     <section class="bg-texture-gray" id="everyday-life-wartime">
-        <div class="bg-left" style="background-image: url('img/bg/bg_sandbag_r.png');">
+        <div class="bg-left" style="background-image: url('img/bg/bg_radio_r.png');">
             <div class="container top-padding bottom-padding-sm">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>戰時日常</h3>
                             <h6>Everyday Life in Wartime</h6>
                         </div>
@@ -172,7 +172,7 @@ include 'inc/header.php';
             </div>
         </div>
 
-        <div class="bg-right" style="background-image: url('img/bg/bg_sandbag_l.png');">
+        <div class="bg-right" style="background-image: url('img/bg/bg_radio_l.png');">
             <div class="container top-padding-sm bottom-padding">
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">

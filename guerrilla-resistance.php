@@ -28,7 +28,7 @@ include 'inc/header.php';
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>港九大隊</h3>
                             <h6>The Hong Kong–Kowloon Brigade</h6>
                         </div>
@@ -81,7 +81,7 @@ include 'inc/header.php';
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>游擊戰</h3>
                             <h6>Guerrilla Warfare</h6>
                         </div>
@@ -134,7 +134,7 @@ include 'inc/header.php';
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>情報與營救</h3>
                             <h6>Spies, Signals, and Rescues</h6>
                         </div>
@@ -172,7 +172,7 @@ include 'inc/header.php';
                 <div class="row">
                     <div class="col-xl-6 col-lg-8 mx-auto">
                         <div class="text-center">
-                            <img src="img/home/icon_logo.svg" alt="icon" class="icon-image">
+                            <img src="img/home/icon_ornament.svg" alt="icon" class="icon-image">
                             <h3>敵後抵抗網絡</h3>
                             <h6>The Underground Resistance</h6>
                         </div>
