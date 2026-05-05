@@ -166,17 +166,31 @@ a:hover {
 }
 
 .bg-left {
-    /* background-image: url(../img/battle-of-hong-kong/bg_r.png); */
     background-repeat: no-repeat;
     background-position: 5% center;
     background-size: 250px auto;
 }
 
 .bg-right {
-    /* background-image: url(../img/battle-of-hong-kong/bg_l.png); */
     background-repeat: no-repeat;
     background-position: 95% center;
     background-size: 250px auto;
+}
+
+.under-japanese-occupation .bg-left {
+    background-size: 175px auto;
+}
+
+.under-japanese-occupation .bg-right {
+    background-size: 175px auto;
+}
+
+.people-and-stories .bg-left {
+    background-size: 200px auto;
+}
+
+.people-and-stories .bg-right {
+    background-size: 200px auto;
 }
 
 .overview-card {
