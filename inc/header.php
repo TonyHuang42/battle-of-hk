@@ -36,6 +36,9 @@
 </head>
 
 <body>
+    <?php
+    $nav_current_script = basename($_SERVER['SCRIPT_NAME'] ?? '');
+    ?>
     <header>
         <nav class="navbar navbar-expand-lg">
             <div class="container d-flex justify-content-between align-items-center">
@@ -50,33 +53,57 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav d-flex justify-content-end w-100 gap-0 column-gap-4">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">
+                            <a class="nav-link<?php echo $nav_current_script === 'index.php' ? ' nav-link--current' : ''; ?>" href="index.php">
                                 主頁
                             </a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="battle-of-hong-kong.php">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle<?php echo $nav_current_script === 'battle-of-hong-kong.php' ? ' nav-link--current' : ''; ?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 香港保衛戰
                             </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="battle-of-hong-kong.php">戰前背景</a></li>
+                                <li><a class="dropdown-item" href="battle-of-hong-kong.php#eighteen-days-of-battle">戰役經過</a></li>
+                                <li><a class="dropdown-item" href="battle-of-hong-kong.php#black-christmas">黑色聖誕</a></li>
+                                <li><a class="dropdown-item" href="battle-of-hong-kong.php#wartime-timeline">戰時時間線</a></li>
+                            </ul>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="guerrilla-resistance.php">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle<?php echo $nav_current_script === 'guerrilla-resistance.php' ? ' nav-link--current' : ''; ?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 游擊與抵抗
                             </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="guerrilla-resistance.php">港九大隊</a></li>
+                                <li><a class="dropdown-item" href="guerrilla-resistance.php#guerrilla-warfare">游擊戰</a></li>
+                                <li><a class="dropdown-item" href="guerrilla-resistance.php#intelligence-and-rescue">情報與營救</a></li>
+                                <li><a class="dropdown-item" href="guerrilla-resistance.php#underground-resistance">敵後抵抗網絡</a></li>
+                            </ul>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="under-japanese-occupation.php">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle<?php echo $nav_current_script === 'under-japanese-occupation.php' ? ' nav-link--current' : ''; ?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 日治下的香港
                             </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="under-japanese-occupation.php">佔領統治</a></li>
+                                <li><a class="dropdown-item" href="under-japanese-occupation.php#survival-and-rationing">生存與配給</a></li>
+                                <li><a class="dropdown-item" href="under-japanese-occupation.php#economy-and-society">經濟與社會</a></li>
+                                <li><a class="dropdown-item" href="under-japanese-occupation.php#everyday-life-wartime">戰時日常</a></li>
+                            </ul>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="people-and-stories.php">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle<?php echo $nav_current_script === 'people-and-stories.php' ? ' nav-link--current' : ''; ?>" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 人物與故事
                             </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="people-and-stories.php">抗戰人物</a></li>
+                                <li><a class="dropdown-item" href="people-and-stories.php#village-memories">村落記憶</a></li>
+                                <li><a class="dropdown-item" href="people-and-stories.php#mutual-aid">民間互助</a></li>
+                                <li><a class="dropdown-item" href="people-and-stories.php#rescue-stories">救援故事</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
