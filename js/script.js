@@ -1,5 +1,6 @@
 // Initialize Swiper
-const battleSwiper = new Swiper(".battleSwiper", {
+if (document.querySelector(".battleSwiper")) {
+  new Swiper(".battleSwiper", {
   slidesPerView: 2.2,
   centeredSlides: true,
   spaceBetween: 100,
@@ -24,3 +25,4 @@ const battleSwiper = new Swiper(".battleSwiper", {
       },
   }
 });
+}

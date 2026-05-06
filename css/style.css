@@ -109,6 +109,10 @@ a:hover {
     height: 40px;
 }
 
+.dropdown-item {
+    font-weight: 300;
+}
+
 .hero {
     position: relative;
 }

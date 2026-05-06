@@ -10,9 +10,10 @@
         </div>
     </footer>
 
+    <?php if (!isset($path_prefix)) { $path_prefix = ''; } ?>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="<?php echo htmlspecialchars($path_prefix); ?>js/script.js"></script>
     </body>
 
     </html>
